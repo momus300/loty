@@ -11,5 +11,8 @@ echo 'index';
 
 ?>
 
+<a href="index.php">glowna</a> |
+<a href="nowy.php">nowy</a>
+
 </html>
 
