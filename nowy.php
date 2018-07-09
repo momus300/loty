@@ -1,4 +1,4 @@
 <?php
 
-echo 'plik nowy';
+echo 'nowy';
 

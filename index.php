@@ -1,4 +1,8 @@
 <?php
 
-phpinfo();
+echo 'index';
+
+
+
+//phpinfo();
 
