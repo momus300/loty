@@ -1,9 +1,12 @@
 version: '3'
 services:
-  webapp:
+  app:
     build: .
+    working_dir: /app
+    container_name: loty
     ports:
       - 80:80
+      - 443:443
     volumes:
       - .:/app
 
